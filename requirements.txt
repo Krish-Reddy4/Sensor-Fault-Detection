@@ -1,0 +1,2 @@
+pymongo[srv]==4.2.0
+#-e .  #it will search for setup.py file to get installed and triggers find_packages() in setup.py
